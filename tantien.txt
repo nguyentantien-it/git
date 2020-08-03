@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Nguyen Tan Tien
+=======
+>>>>>>> parent of 65bda97... tantien.txt update content
